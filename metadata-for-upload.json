@@ -1,0 +1,11 @@
+{
+  "name": "Rocket Coin",
+  "symbol": "RCK",
+  "description": "This is my first token",
+  "image": "https://raw.githubusercontent.com/rbae0403/my-solana-token/refs/heads/main/rocket.png",
+  "extensions": {
+  "website": "https://www.rocketcoin.com",
+  "twitter": "https://x.com/Google",
+  "telegram": "https://t.me/google_nws"
+  }
+}
